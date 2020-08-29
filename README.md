@@ -1,5 +1,13 @@
 # gw_bc_hw3
 
+```
+GW CODING BOOTCAMP
+HOMEWORK 3: Password Generator   
+Due date: Saturday, 08/29/20 Midnight Eastern Time (ET)
+Student: HENRY JEAN LOGIQUE
+Subject: Password Generator Application
+```
+```
 The “Password Generator” application generates a random password based on user-selected criteria.
 It has a text area which instructs users on how to use the application. The text area also displays 
 the generated password at the end. Underneath the text area, there are two buttons. The one on the 
@@ -8,8 +16,8 @@ select the “Generate Password” button, the application prompts a series of p
 questions. As users make their selections, the application evaluates their selections, and if their 
 selections are valid, it generates a random password for them. The “clear” button clears the Text 
 area. 
-
-
+```
+```
 In the assignment I have accomplished the followings:
 
 - Created an application that generates a random password based on user-selected criteria.
@@ -39,3 +47,4 @@ In the assignment I have accomplished the followings:
    scenarios.
 - Uploaded the updated files to my personal GitHub repository, and made the URLs to my deployed application, 
   and my GitHub repository available.
+```

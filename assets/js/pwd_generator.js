@@ -3,6 +3,8 @@
 
 // An array variable for all possible characters
 var allChar = ["abcdefghijklmnopqrstuvwxyz", "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "0123456789", "!“#$%&‘()*+,-./:;<=>?@[\]^_`{|}~"];
+// Assign the instruction to the Display screen
+document.getElementById("pwdDisplay").textContent = 'Select the "Generate Password" button to start, and the "Clear" button to clear your password.';
 
 // 1. Choose a number of Characters for the password
 function numOfCharFunc() {
@@ -52,9 +54,14 @@ function genPwdFunc(event) {
   }
 }
 
-// 4. Clear the display
+// 4. Clear the display, if the text is a password (anything other than the instruction)
 function clearFunc(event) {
-  document.querySelector("#pwdDisplay").textContent = "Generate another password?";
+  var pwdDisplay = document.querySelector("#pwdDisplay").textContent;
+  if (pwdDisplay.substr(0, 6) == 'Select') {
+    alert("No password to clear!")
+  } else {
+    document.getElementById("pwdDisplay").textContent = "Generate another password?";
+  }
 }
 
 //The "Generate Password" button calls the enPwdFunc function
