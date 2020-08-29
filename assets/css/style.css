@@ -1,0 +1,69 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background:#AEACAC;
+}
+
+.container {
+  max-width: 768px; 
+  border:solid grey 2px; 
+  margin-top: 50px; 
+  background-color: #292828; 
+  color:#E1E0E0;
+}
+
+.page-header {
+  background: #5B5A5A; 
+  color:#ECEAEA; 
+  text-align: center;  
+  margin-left: -15px; 
+  margin-right: -15px;
+}
+
+.card {
+  background-color: #E1E0E0; 
+  color:#292828;
+}
+
+#btnRow {
+  width:100%; 
+  text-align: center;
+}
+
+#btnColumn {
+  display: block;
+  margin: 0 auto;
+}
+
+#pwdGenBtn {
+  margin-right: 5px;
+}
+
+#clearBtn {
+  margin-left: 5px;
+}
+
+@media screen and (max-width: 768px){
+  .container {
+    margin-top: 30px; 
+  }
+}
+
+@media screen and (max-width: 400px){
+  .container {
+    margin-top: 0px; 
+  }
+}
+
