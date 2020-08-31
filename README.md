@@ -20,7 +20,7 @@ and if their selections are valid, it generates a random password for them.
 The “clear” button clears the Text area. 
 
 [Link to the Password Generator application](https://hjlogique.github.io/gw_bc_hw3/)
-![Alt text](/github.com/hjlogique/gw_bc_hw3/screenshot/screenshot.png?raw=true "Password Generator application screenshot")
+![Password Generator application screenshot](https://github.com/hjlogique/gw_bc_hw3.git/screenshot/screenshot.png)
 ```
 ```
 In this assignment I accomplished the followings:
