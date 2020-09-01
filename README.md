@@ -18,10 +18,10 @@ application prompts a series of password criteria related questions. As
 users make their selections, the application evaluates their selections, 
 and if their selections are valid, it generates a random password for them. 
 The “clear” button clears the Text area. 
-
+```
 [Link to the Password Generator application](https://hjlogique.github.io/gw_bc_hw3/)
 ![Password Generator application screenshot](screenshot/screenshot.png)
-```
+
 ```
 In this assignment I accomplished the followings:
 
