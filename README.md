@@ -3,7 +3,6 @@
 GW CODING BOOTCAMP
 Application: Password Generator   
 By HENRY JEAN LOGIQUE
-
 ```
 ```
 The “Password Generator” application generates a random password based on 
