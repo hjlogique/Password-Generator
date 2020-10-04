@@ -23,6 +23,12 @@ The “clear” button clears the Text area.
 <br/><br/>
 ![Password Generator application screenshot](/screenshot/password_generator_prompts.png)
 <br/><br/>
+![Password Generator application screenshot](/screenshot/password_generator_uppercase.png)
+<br/><br/>
+![Password Generator application screenshot](/screenshot/password_generator_numeric.png)
+<br/><br/>
+![Password Generator application screenshot](/screenshot/password_generator_special.png)
+<br/><br/>
 ![Password Generator application screenshot](/screenshot/password_generator_result.png)
 
 
