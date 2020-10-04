@@ -20,9 +20,10 @@ The “clear” button clears the Text area.
 <br/><br/>
 ![Password Generator application screenshot](/screenshot/password_generator_screenshot.png)
 <br/><br/>
-![Password Generator application screenshot](/screenshot/password_generator_result.png)
-<br/><br/>
 ![Password Generator application screenshot](/screenshot/password_generator_prompts.png)
+<br/><br/>
+![Password Generator application screenshot](/screenshot/password_generator_result.png)
+
 
 ```
 In this assignment I accomplished the followings:
