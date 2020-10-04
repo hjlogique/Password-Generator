@@ -19,6 +19,8 @@ The “clear” button clears the Text area.
 [Link to the Password Generator application](https://hjlogique.github.io/gw_bc_hw3/)
 <br/><br/>
 ![Password Generator application screenshot](/screenshot/password_generator_screenshot.png)
+<br/><br/>
+![Password Generator application screenshot](/screenshot/password_generator_result.png)
 
 ```
 In this assignment I accomplished the followings:
