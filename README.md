@@ -8,7 +8,7 @@ License: MIT
 ```
 [Link to my GitHub Profile](https://github.com/hjlogique)
 <br/>
-[Link to the Password Generator application](https://hjlogique.github.io/gw_bc_hw3/)
+[Link to the Password Generator application](https://hjlogique.github.io/Password-Generator/)
 
 ```
 The “Password Generator” application generates a random password based on 
