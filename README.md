@@ -1,11 +1,9 @@
-# gw_bc_hw3
 
 ```
 GW CODING BOOTCAMP
-HOMEWORK 3: Password Generator   
-Due date: Saturday, 08/29/20 Midnight Eastern Time (ET)
-Student: HENRY JEAN LOGIQUE
-Subject: Password Generator Application
+Application: Password Generator   
+By HENRY JEAN LOGIQUE
+
 ```
 ```
 The “Password Generator” application generates a random password based on 
