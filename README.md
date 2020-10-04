@@ -37,7 +37,7 @@ The “clear” button clears the Text area.
 
 
 ```
-In this assignment I accomplished the followings:
+I accomplished the followings:
 
 - Created an application that generates a random password based on 
   user-selected criteria.
