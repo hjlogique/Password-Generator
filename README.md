@@ -22,7 +22,7 @@ The “clear” button clears the Text area.
 <br/><br/>
 ![Password Generator application screenshot](/screenshot/password_generator_result.png)
 <br/><br/>
-![Password Generator application screenshot](/screenshot/password_generator_prompt.png)
+![Password Generator application screenshot](/screenshot/password_generator_prompts.png)
 
 ```
 In this assignment I accomplished the followings:
