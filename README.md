@@ -5,6 +5,12 @@ Application: Password Generator
 By HENRY JEAN LOGIQUE
 Used technologies: HTML, CSS, JavaScript, Bootstrap framework
 ```
+[GitHub Profile](https://github.com/hjlogique)
+<br/><br/>
+
+[Link to the Password Generator application](https://hjlogique.github.io/gw_bc_hw3/)
+<br/><br/>
+
 ```
 The “Password Generator” application generates a random password based on 
 user-selected criteria. It has a text area which instructs users on how to 
@@ -17,8 +23,7 @@ users make their selections, the application evaluates their selections,
 and if their selections are valid, it generates a random password for them. 
 The “clear” button clears the Text area. 
 ```
-[Link to the Password Generator application](https://hjlogique.github.io/gw_bc_hw3/)
-<br/><br/>
+
 ![Password Generator application screenshot](/screenshot/password_generator_screenshot.png)
 <br/><br/>
 ![Password Generator application screenshot](/screenshot/password_generator_prompts.png)
