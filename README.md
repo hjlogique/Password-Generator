@@ -4,6 +4,7 @@ GW CODING BOOTCAMP
 Application: Password Generator   
 By HENRY JEAN LOGIQUE
 Used technologies: HTML, CSS, JavaScript, Bootstrap framework
+License: MIT
 ```
 [Link to my GitHub Profile](https://github.com/hjlogique)
 <br/>
