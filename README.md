@@ -3,6 +3,7 @@
 GW CODING BOOTCAMP
 Application: Password Generator   
 By HENRY JEAN LOGIQUE
+Used technologies: HTML, CSS, JavaScript, Bootstrap framework
 ```
 ```
 The “Password Generator” application generates a random password based on 
