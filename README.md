@@ -5,8 +5,8 @@ Application: Password Generator
 By HENRY JEAN LOGIQUE
 Used technologies: HTML, CSS, JavaScript, Bootstrap framework
 ```
-[GitHub Profile](https://github.com/hjlogique)
-<br/>
+[Link to my GitHub Profile](https://github.com/hjlogique)
+<br/><br/>
 [Link to the Password Generator application](https://hjlogique.github.io/gw_bc_hw3/)
 
 ```
