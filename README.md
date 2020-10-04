@@ -6,6 +6,7 @@ By HENRY JEAN LOGIQUE
 Used technologies: HTML, CSS, JavaScript, Bootstrap framework
 ```
 [GitHub Profile](https://github.com/hjlogique)
+<br/>
 [Link to the Password Generator application](https://hjlogique.github.io/gw_bc_hw3/)
 
 ```
